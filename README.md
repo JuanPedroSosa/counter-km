@@ -3,7 +3,7 @@ Un ejemplo básico de cómo utilizar una fuente tipográfica personalizada y eve
 
 [Fuente tipográficas](https://www.keshikan.net/fonts-e.html)
 
-Una vez descargada el zip la fuente tipo true type se puede comprimir a woff
+Una vez descargada el zip la fuente tipo truetype se puede comprimir a woff
 
 - ttf2woff DSEG7.ttf DSEG7.woff
 - woff2_compress DSEG7.ttf
