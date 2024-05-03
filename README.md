@@ -9,3 +9,9 @@ Una vez descargada el zip la fuente tipo true type se puede comprimir a woff
 - woff2_compress DSEG7.ttf
 
 Se puede ejecutar con Live Server desde VSCode 
+
+### Prueba
+
+- Mover el mouse/ratón 
+- Click para cambiar de color
+- Botón derecho para poner a cero
